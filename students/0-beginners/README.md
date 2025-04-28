@@ -114,6 +114,14 @@ _Source: Beginning Ruby 3: From Beginner to Pro (Fourth Edition) by Carleton DiL
 () Which brand has the most types of bikes?
 ()
 
+**Hint:** use `.inspect` on an object to get a better understanding of what that object looks like. (it is a kernel method). Access the value of a row by applying this structure `row["Column"]`. Take a look into the official [csv library docs](https://ruby-doc.org/stdlib-3.0.0/libdoc/csv/rdoc/CSV.html)
+
+**Goal:**
+
+## 041 real estate analyzer with more object-oriented approach
+
+**Task:**
+
 **Hint:**
 
 **Goal:**
