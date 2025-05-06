@@ -100,6 +100,23 @@ _Source: Beginning Ruby 3: From Beginner to Pro (Fourth Edition) by Carleton DiL
 
 **Goal:**
 
+## 012 real estate collector
+
+**Task:** 
+
+**Hint:**
+
+**Goal:**
+
+
+## 013 Superhero collector
+
+**Task:** Write a list of multiple super heroes and add the most relevent attributes like name, height, superpower, strength score, and weight.
+
+**Hint:**
+
+**Goal:**
+
 
 ## 040 products data analyzer 
 
